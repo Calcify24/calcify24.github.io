@@ -27,7 +27,6 @@ nav a {
     text-decoration: none;
     color: black;
     border-bottom: 0.125rem solid transparent;
-    padding-bottom: 0.5rem;
 }
 
 nav a:hover {
