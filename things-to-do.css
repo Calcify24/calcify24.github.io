@@ -1,0 +1,23 @@
+/* Styles for activities page */
+.activities {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.activity {
+    width: calc(33% - 20px);
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.activity p {
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

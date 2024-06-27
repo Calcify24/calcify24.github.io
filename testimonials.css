@@ -1,0 +1,27 @@
+.testimonials {
+    padding: 20px;
+}
+
+.testimonial {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.testimonial img {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+}
+
+.testimonial p {
+    font-style: italic;
+}
+
+.testimonial cite {
+    font-size: smaller;
+    text-align: right;
+}
